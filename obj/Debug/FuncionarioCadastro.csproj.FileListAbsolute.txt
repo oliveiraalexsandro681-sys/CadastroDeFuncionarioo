@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\bin\Debug\FuncionarioCadastro.exe.config
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\bin\Debug\FuncionarioCadastro.exe
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\bin\Debug\FuncionarioCadastro.pdb
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\obj\Debug\FuncionarioCadastro.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\obj\Debug\FuncionarioCadastro.Form1.resources
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\obj\Debug\FuncionarioCadastro.Properties.Resources.resources
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\obj\Debug\FuncionarioCadastro.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\obj\Debug\FuncionarioCadastro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\obj\Debug\FuncionarioCadastro.exe
+C:\Users\DELL\source\repos\CadastroDeFuncionário\FuncionarioCadastro\obj\Debug\FuncionarioCadastro.pdb
